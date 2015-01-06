@@ -1,0 +1,872 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"backgound",
+				"background-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"marin",
+				"margin-top"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"marb",
+				"marbelsDrawn"
+			],
+			[
+				"ma",
+				"marbelsTotal"
+			],
+			[
+				"marbe",
+				"marbelsDrawn"
+			],
+			[
+				"Marbel",
+				"marbelsTotal"
+			],
+			[
+				"Mar",
+				"marbelsDrawn"
+			],
+			[
+				"marbels",
+				"marbelsTotal"
+			],
+			[
+				"Not",
+				"NotImplemented"
+			],
+			[
+				"with",
+				"with"
+			],
+			[
+				"E",
+				"E"
+			],
+			[
+				"sum",
+				"sum"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"w",
+				"w"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"float",
+				"float_of_int"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"we",
+				"webkit-flex"
+			],
+			[
+				"align",
+				"vertical-align"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"inln",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"webkit-",
+				"webkit-tranform"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"backgrou",
+				"background"
+			],
+			[
+				"web",
+				"webkit-linear-gradient"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"border-image",
+				"border-image-slice"
+			],
+			[
+				"border-iamge",
+				"border-image-source"
+			],
+			[
+				"bor",
+				"border-top"
+			],
+			[
+				"border-s",
+				"border-style"
+			],
+			[
+				"border-w",
+				"border-width"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"list-style",
+				"list-style-position"
+			],
+			[
+				"B",
+				"baskerville"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"Ba",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"h",
+				"height	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "site1/index.html",
+			"settings":
+			{
+				"buffer_size": 8105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site1/tsp.html",
+			"settings":
+			{
+				"buffer_size": 6686,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site1/housing.html",
+			"settings":
+			{
+				"buffer_size": 9427,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site1/handle.html",
+			"settings":
+			{
+				"buffer_size": 7548,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site1/contact.html",
+			"settings":
+			{
+				"buffer_size": 3854,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site1/news.html",
+			"settings":
+			{
+				"buffer_size": 4352,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site1/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 119912,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "site1/css/carousel.css",
+			"settings":
+			{
+				"buffer_size": 4413,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pring/Documents/BMT/Website/Site1/site1/css/carousel.css",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/site1/css/bootstrap.css",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/news.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/contact.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/procedure.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/handle.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/housing.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/tsp.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/index.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site2/Site2/background.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site2/Site2/procedure.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site2/Site2/tsp.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site2/Site2/housing.html",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/js/bootstrap.min.js",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/js/jquery.js",
+		"/C/Users/Pring/Documents/Fall 2013/ECSE 221/test.tim",
+		"/C/Users/Pring/Desktop/Winter 2013/ECSE 221 - Introduction to Computer Engineering/LogicWorks 5/test26-10-2013.tim",
+		"/C/Users/Pring/Desktop/Winter 2013/ECSE 221 - Introduction to Computer Engineering/LogicWorks 5/test2.tim",
+		"/C/Users/Pring/Desktop/Winter 2013/ECSE 221 - Introduction to Computer Engineering/LogicWorks 5/Test.tim",
+		"/C/Users/Pring/Desktop/Winter 2013/ECSE 221 - Introduction to Computer Engineering/LogicWorks 5/Book1.tim",
+		"/C/Users/Pring/Desktop/Winter 2013/ECSE 221 - Introduction to Computer Engineering/LogicWorks 5/LogicWorks 5/Export Scripts/Parts List.rfm",
+		"/C/Users/Pring/Desktop/Winter 2013/ECSE 221 - Introduction to Computer Engineering/LogicWorks 5/LogicWorks 5/Scripts/IOPanelDefault.html",
+		"/C/Users/Pring/Desktop/Winter 2013/ECSE 221 - Introduction to Computer Engineering/LogicWorks 5/LogicWorks 5/Scripts/IOPanel6502.html",
+		"/C/Users/Pring/Documents/BMT/Website/Bootstrap/bootstrap-3.0.0/bootstrap-3.0.0/examples/carousel/index.html",
+		"/C/Users/Pring/Documents/BMT/Website/Bootstrap/bootstrap-3.0.0/bootstrap-3.0.0/examples/navbar-fixed-top/navbar-fixed-top.css",
+		"/C/Users/Pring/Documents/BMT/Website/Bootstrap/bootstrap-3.0.0/bootstrap-3.0.0/examples/navbar-fixed-top/index.html",
+		"/C/Users/Pring/Documents/TeamTreeHouse/JavaScript/JSFound-Var-Basics/index.html",
+		"/C/Users/Pring/Documents/TeamTreeHouse/JavaScript/JSFound-Var-Basics/myscript.js",
+		"/C/Users/Pring/Documents/BMT/Website/Bootstrap/bootstrap-3.0.0/bootstrap-3.0.0/assets/js/holder.js",
+		"/C/Users/Pring/Documents/BMT/Website/Bootstrap/bootstrap-3.0.0/bootstrap-3.0.0/js/carousel.js",
+		"/C/Users/Pring/Documents/BMT/Website/Bootstrap/bootstrap-3.0.0/bootstrap-3.0.0/README.md",
+		"/C/Users/Pring/Documents/BMT/Website/Bootstrap/bootstrap-3.0.0/bootstrap-3.0.0/assets/js/uglify.js",
+		"/C/Users/Pring/Documents/BMT/Website/Bootstrap/bootstrap-3.0.0/bootstrap-3.0.0/examples/carousel/carousel.css",
+		"/C/Users/Pring/Documents/BMT/Website/Site1/css/carousel.css",
+		"/C/Users/Pring/Documents/BMT/Website/Bootstrap/bootstrap-3.0.0/bootstrap-3.0.0/assets/css/docs.css",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Assignments/Assignment2 - Due ThursdayOct3rd/hw2-solution.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Assignments/Assignment2 - Due ThursdayOct3rd/hw2-template.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Assignments/Assignment1 - Due WednesdaySept19th/hw1-sol.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Assignments/Assignment1 - Due WednesdaySept19th/hw1.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/objects.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/ref.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/exceptions.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture5/hofun-2.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture5/hofun-1.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture2/trees.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture2/lists.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture2/datatypes-1.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture1/functions.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture1/basicOCaml.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/#lect2.ml#",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/10-10-2013",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/08-10-2013",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Assignments/Assignment2 - Due ThursdayOct3rd/Notes for Assignment 2",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture8/Lecture 8",
+		"/C/Users/Pring/Documents/TeamTreeHouse/Useful Websites",
+		"/C/Users/Pring/Google Drive/JohnKelseyPhotography.com/Website2/css/style-welcome.css",
+		"/C/Users/Pring/Google Drive/JohnKelseyPhotography.com/Website2/welcome.html",
+		"/C/Users/Pring/Google Drive/JohnKelseyPhotography.com/Website2/css/style.css",
+		"/C/Users/Pring/Google Drive/JohnKelseyPhotography.com/Website2/index.html",
+		"/C/Users/Pring/Documents/Fall 2013/MECH 498/MECH 498 Project Proposal.txt",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture7/Lecture 7",
+		"/C/Users/Pring/Documents/Fall 2013/ECSE 221/Assignments/Assignment1 - Due MondaySept23rd/Pringle_Richard_260302515_divide.c",
+		"/C/Users/Pring/Documents/Fall 2013/ECSE 221/Tutorial 1",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture2/functions.ml",
+		"/C/OCaml/emacs-24.3/site-lisp/hw1.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture4/Lecture 4",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture3/Lecture 3",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture2/Lecture 2",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture2/lecture2/datatypes-1.ml",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture2/lecture2/functions.ml",
+		"/C/Users/Pring/AppData/Roaming/emacs/tuareg-mode/ocamldebug.el",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Assignments/Assignment1 - Due WednesdaySept19th/Q1.txt",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Assignments/Assignment1 - Due WednesdaySept19th/Q0.txt",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Assignments/Assignment1 - Due WednesdaySept19th/hw1.ml~",
+		"/C/Users/Pring/AppData/Roaming/.emacs",
+		"/C/OCaml/emacs-23.3/tuareg-2.0.6/tuareg-2.0.6/README",
+		"/C/OCaml/emacs-23.3/tuareg-2.0.6/tuareg-2.0.6/tuareg.el",
+		"/C/OCaml/emacs-23.3/site-lisp/.emacs",
+		"/C/OCaml/emacs-23.3/site-lisp/tuareg-2.0.6/.emacs",
+		"/C/OCaml/emacs-23.3/site-lisp/tuareg-2.0.6/Makefile",
+		"/C/OCaml/emacs-23.3/tuareg-2.0.6/tuareg-2.0.6/tuareg-pkg.el",
+		"/C/OCaml/emacs-23.3/tuareg-2.0.6/tuareg-2.0.6/Makefile",
+		"/C/OCaml/emacs-23.3/README",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture 4",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture 3",
+		"/C/Users/Pring/Documents/Fall 2013/COMP 302/Lectures/Lecture 2",
+		"/C/Users/Pring/Documents/Comp 302/Lectures/Lecture 1",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/transforms-3d/transforms-3d/final/page.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/transforms-3d/transforms-3d/final/transforms.css",
+		"/C/Users/Pring/Google Drive/JohnKelseyPhotography.com/Website/index.html",
+		"/C/Users/Pring/Google Drive/JohnKelseyPhotography.com/Website/css/style.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-more-selectors/more-selectors/style.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-more-selectors/more-selectors/index.html",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/box-model-concept/final/style.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/box-model-concept/final/index.html",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/flexbox-part-1/flexbox-part-1/final/index.html",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/flexbox-part-1/flexbox-part-1/final/page-styles.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/flexbox-part-1/flexbox-part-1/final/flexbox.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-pseudo-elements/pseudo-elements/Final/generated-content-box.html",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-substring-matching-attribute-selectors/substring-matching-attribute-selectors/Final/substring-matching.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-substring-matching-attribute-selectors/substring-matching-attribute-selectors/Final/style.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-substring-matching-attribute-selectors/substring-matching-attribute-selectors/Final/index.html",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-pseudo-classes/pseudo-classes/style.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-pseudo-classes/pseudo-classes/index.html",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-basic-selectors/basic-selectors/style.css",
+		"/C/Users/Pring/Documents/TeamTreeHouse/CSS Deep Dive/CSS-DD-basic-selectors/basic-selectors/index.html",
+		"/C/Users/Pring/Documents/TeamTreeHouse/JavaScript/myfirstscriptfile.js",
+		"/C/Users/Pring/Documents/TeamTreeHouse/JavaScript/test.html",
+		"/C/xampp/htdocs/PHP Project/island01-stage05-shirts4mike/shirts4mike/inc/products.php",
+		"/C/xampp/htdocs/PHP Project/island01-stage05-shirts4mike/shirts4mike/shirt.php",
+		"/C/xampp/htdocs/PHP Project/island01-stage05-shirts4mike/shirts4mike/shirts.php",
+		"/C/xampp/htdocs/PHP Project/island01-stage05-shirts4mike/shirts4mike/contact.php",
+		"/C/xampp/htdocs/PHP Project/island01-stage05-shirts4mike/shirts4mike/index.php",
+		"/C/xampp/htdocs/PHP Project/PHPMailer-master/PHPMailer-master/class.phpmailer.php",
+		"/C/Users/Pring/Google Drive/JohnKelseyPhotography.com/Website2/mobile.html",
+		"/C/xampp/htdocs/PHP Project/shirts4mike-starter-files (1)/shirts4mike/inc/footer.php",
+		"/C/xampp/htdocs/PHP Project/shirts4mike-starter-files (1)/shirts4mike/inc/header.php",
+		"/C/xampp/htdocs/PHP Project/island01-stage04-shirts4mike/shirts4mike/shirts.php",
+		"/C/xampp/htdocs/PHP Project/shirts4mike-starter-files (1)/shirts4mike/css/style.css",
+		"/C/xampp/htdocs/PHP Project/island01-stage04-shirts4mike/shirts4mike/inc/header.php",
+		"/C/xampp/htdocs/PHP Project/island01-stage04-shirts4mike/shirts4mike/contact.php",
+		"/C/xampp/htdocs/PHP Project/island01-stage04-shirts4mike/shirts4mike/index.php",
+		"/C/xampp/htdocs/PHP Project/shirts4mike-starter-files (1)/shirts4mike/contact-thanks.php",
+		"/C/xampp/htdocs/PHP Project/shirts4mike-starter-files (1)/shirts4mike/contact-process.php",
+		"/C/Users/Pring/Documents/TeamTreeHouse/PHP Project/island01-stage03-shirts4mike-v2/shirts4mike/contact.php",
+		"/C/Users/Pring/Documents/TeamTreeHouse/PHP Project/island01-stage03-shirts4mike-v2/shirts4mike/shirts.php",
+		"/C/Users/Pring/Documents/TeamTreeHouse/PHP Project/island01-stage03-shirts4mike-v2/shirts4mike/inc/footer.php",
+		"/C/Users/Pring/Documents/TeamTreeHouse/PHP Project/island01-stage03-shirts4mike-v2/shirts4mike/inc/header.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"id",
+			"hover",
+			"navbar-toggle",
+			"navbar-header",
+			"img",
+			"col-md-8",
+			"col-md-9",
+			"col-md",
+			"img",
+			"text-",
+			"li",
+			"ul",
+			".collapse",
+			"collapse",
+			"collapsed",
+			"991",
+			"collapsed",
+			"data-toggle",
+			"collapse",
+			"768",
+			"font-size",
+			".nav",
+			"ul, ",
+			"ul ",
+			"ul",
+			"navbar",
+			"active",
+			".container",
+			"margin-bottom",
+			"align",
+			"col-lg-6",
+			"info",
+			".row",
+			"img",
+			"hr",
+			"featurette",
+			"featurette-divider",
+			"featurette divider",
+			"col-lg-3",
+			"img",
+			"row",
+			"h2",
+			"width",
+			"content",
+			"feature",
+			"body",
+			"navbar-wrapper",
+			"wrapper",
+			"\">\n",
+			"(* Name: Richard Pringle\nStudent number: 260302515 *)\n\n\n\n(* HOMEWORK 1 : COMP 302 Fall 2013 \n  \n   PLEASE NOTE:  \n\n   * All code files must be submitted electronically\n     BEFORE class on 19 Sep, 2013\n\n  *  The submitted file name must be hw1.ml \n\n  *  Your program must type-check and run usig \n     OCaml of at least OCaml 3.11.2\n\n  * Remove all \"raise NotImplemented\" with your solutions\n*)\n\nexception NotImplemented\n\n(* ------------------------------------------------------------*)\n(* QUESTION 2 : WARM-UP                                        *)\n(* ------------------------------------------------------------*)\n(* Q2.1: Average                                               *)\n(* ------------------------------------------------------------*)\n(* average: float list -> float\n\n The function takes a list of integers and returns\n their average as a floating point number\n*)\n\n(* function sum just to make the code a little cleaner *)\n\nlet sum x y = x +. y\n\n(*  \n  I did not need to make the function recursive because the List.fold_left is already recursive.\n  If the list is not empty, List.fold_left iterates through the list using the funciton sum with each element\n  then divide by the length of the list.  \n*)\n\nlet average l = match l with\n  | []        -> failwith \"empty list\"\n  | float::_  -> (List.fold_left sum 0.0 l) /. (float_of_int (List.length l))\n\n\n(* -------------------------------------------------------------*)\n(* Q2.2:  Standard Deviation                                    *) \n(* -------------------------------------------------------------*)\n\n(* stDev: int list -> real \n\n The function takes a list of integers and returns their\n the standard deviation as a real number\n*)\n\n\nlet square x = x *. x \n\n(* \n  Again, I didn't need to make stDev recursive due to List.fold_left function.\n  Here, I created a function that returns a tuple with the sum of the list 's' and\n  the sum of the squares of the list 's2'. I wanted to use another list and my \n  average function however I discovered this would be easier.\n\n*)\n\nlet stDev l = match l with\n  | [] -> failwith \"empty list\"\n  | float::_ -> \n      let sum, sum2 = \n        List.fold_left \n          (fun (sum1,sum2) x -> sum1 +. x, sum2 +. square x) (0.,0.) l \n          and \n          n = float_of_int (List.length l) \n        in\n        sqrt ( (sum2 -. (square sum /. n)) /. n)\n\n\n(* ------------------------------------------------------------*)\n(* QUESTION 3                                                  *)\n(* ------------------------------------------------------------*)\n\n(* Partial sums :\n\n   Given a list of integers, compute the partial sums \n   i.e. the sums of all the prefixes\n\n   psum: int list -> int list\n\n*)\n\n(* \n  psum covers all three cases.\n  For the case where the tail is not empty, psum is called recursively.\n  The list that goes into the recursive has the partial sum in its head\n  and the tail is the tail of the tail of l.\n*)\n\nlet rec psum l = match l with \n  | [] -> []\n  | (h:int)::[] -> l\n  | h::(h'::t') -> h::psum ((h' + h)::t')\n\n\n(* Some test cases \n# psum [1;1;1;1;1];;\n- : int list = [1; 2; 3; 4; 5]\n\n# psum [1;2;3;4];;\n- : int list = [1; 3; 6; 10]\n\n# psum [];;\n- : int list = []\n\n# psum [9];\n- : int list = [9]\n\n*)\n\n\n(* ------------------------------------------------------------*)\n(* QUESTION 4 : Mobile                                         *) \n(* ------------------------------------------------------------*)\n\ntype mobile = Object of int | Wire of mobile * mobile\n\n(* A object is represented by its weight (= an integer) and a wire\n is represented by the two mobiles attached to its ends \n\n*)\n\n(* ------------------------------------------------------------*)\n(* Q4.1: Weight                                                *)\n(* ------------------------------------------------------------*)\n(* val weight: mobile -> int\n       weight(m) = total weight of the mobile m *)\n\nlet rec weight m = match m with\n  | Object w      -> w\n  | Wire (m_l,m_r)  -> weight m_l + weight m_r\n\n(* ------------------------------------------------------------*)\n(* Q4.2: Balance                                               *)\n(* ------------------------------------------------------------*)\n(* val balanced : mobile -> bool \n   balanced (m) ==> true, if weight of m's left end = weight of m's\n                          right end; and each of the sub-parts are also \n			  balanced.\n                   false otherwise\n\n  Note: it is not simply enough to check that two\n  children have the same weight == it still could mean\n  that a sub-tree is unbalanced.\n*)\n\n(* \n  Decided to check to see if there was a wire or not because\n  an Object by itself is still considered a mobile but it does\n  not need to be balanced.\n\n  Otherwise, the total weight is checked for each side of the \n  mobile. If this test fails, the function returns false. If \n  the total weight of each side is balanced, then\n  the function recursively checks any wires until the touple\n  only consists solely of objects. Here, it checks their weights. \n*)\n\nlet rec balanced m = match m with\n  | Object w  -> failwith \"No balance check necessary without any wires\"                                              \n  | Wire(l,r) -> \n      if (weight l == weight r) then match (l,r) with\n        | (Object w_l, Wire(l',r')) -> balanced r\n        | (Wire(l',r'), Object w_r) -> balanced l\n        | (Wire(l',r'),_)           -> (balanced l && balanced r)\n        | (Object w_l, Object w_r)  -> (w_l == w_r)\n      else false\n\n\n(* ------------------------------------------------------------*)\n(* Q4.3: Reflection                                            *)\n(* ------------------------------------------------------------*)\n(* We can reflect a mobile about its verical axis: for an\n object, the reflection is just itself; for a wire, we swap the\n positions of the two mobiles hanging off its end. Reflection\n is applied recursively on the subparts. *)\n\n(*   val reflect: mobile -> mobile \n   reflect(m) => a mobile that is the complete reflection of m\n*)\n\nlet rec reflect m = match m with\n | Object w   -> m\n | Wire(l,r)  -> Wire(reflect r, reflect l)\n\n(* ------------------------------------------------------------*)\n(* Q4.4 Weight of the Mobile                                   *)\n(* ------------------------------------------------------------*)\n(* We modify the representation of the mobile slightly and keep the\n weight information at the wire. The weight at the wire is the sum of\n the weight of each mobiles attached to it. \n*)\n \ntype rmobile = RObj of int | RWire of rmobile * int * rmobile\n\n(* val rweight: rmobile -> int \n  constant time function which computes the total weight of an rmobile\n  *)\n\n(* \n  The weight of every component, with the sum of the weight of its\n  children, is contained in each and every key. Since the type\n  rmobile is recursive, this eliminated the need for recursion in\n  the rweight function.\n*)\n\nlet rweight m = match m with\n  | RObj rw           -> rw\n  | RWire(rm1,rw,rm2) -> rw \n\n\n(* ------------------------------------------------------------*)\n(* QUESTION 5                                                  *)\n(* ------------------------------------------------------------*)\n\n(* Binary numbers *)\ntype bnum = E | Zero of bnum | One of bnum\n\n(* Binary numbers are represented in REVERSE ORDER\n\n   for example : \n\n    110 =  zero (one (one e)) =  6                 (no leading zero)\n   0110 =  zero (one (one (zero e))) = 6           (one leading zero)\n  00110 =  zero (zero (one (one (zero e)))) = 6    (two leading zero)\n   0101 =  one (zero (one (zero e))) = 5           (no leading zero)\n\n*)\n\n(* ------------------------------------------------------------*)\n(* QUESTION 5.1                                                *)\n(* ------------------------------------------------------------*)\n\n(* Write a function which converts an integer n (n >= 0)\n   into a binary number with no leading zeros.\n   \n   intToBin : int -> bnum *)\n\nlet rec intToBin b = match b with \n  | 0 -> Zero(E)\n  | 1 -> One(E)\n  | _ -> if ((b mod 2) == 1) then One(intToBin (b/2))\n    else Zero(intToBin (b/2))\n  \n\n  \n\n(* Some test cases\n\n   - intToBin(5);\n   val it = one (zero (one e)) : bnum\n\n   - intToBin(6);\n   val it = zero (one (one e)) : bnum\n\n   - intToBin(8);\n   val it = zero (zero (zero (one e))) : bnum\n\n   - intToBin(7);\n   val it = one (one (one e)) : bnum\n  \n*)\n\n(* ------------------------------------------------------------*)\n(* QUESTION 5.2                                                *)\n(* ------------------------------------------------------------*)\n\n(* Write a function which converts a binary number possibly with\n   leading zeros into an integer n where n >= 0.\n\n   binToInt : bnum -> int *)\n\nlet rec pow (x,n) = match n with\n  | 0 -> 1\n  | 1 -> x\n  | _ -> x*pow(x,n-1)\n\n(*  \n\n\n\nmatch b with \n  | E -> 1\n  | Zero( b') -> 0 + binToInt (b')\n  | One(b') -> 1 + binToInt (b')  \n\n\n*)\n\n\nlet rec binToInt (b) = raise NotImplemented\n\n\n        \n  \n\n(* Some test cases :\n\n\n# binToInt (One (Zero (One (Zero E))));;\n- : int = 5\n# binToInt (One (Zero (One (Zero (Zero E)))));;\n- : int = 5\n# binToInt (Zero (One (One E)));;\n- : int = 6\n# binToInt (Zero (One (One (Zero E))));;\n- : int = 6\n#  \n*)\n\n\n",
+			"b')\n  | One",
+			"b')\n  | ",
+			"b')\n  |",
+			"b')\n  ",
+			"')\n",
+			"on",
+			"\">\n",
+			";\n",
+			"}",
+			";\n",
+			"texture"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "site1/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "site1/tsp.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "site1/housing.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1376,
+								1378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 452.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "site1/handle.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7548,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5901,
+								5901
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3406.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "site1/contact.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3854,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "site1/news.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "site1/css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 119912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "site1/css/carousel.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4413,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1148.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "TSP-website.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 125.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
