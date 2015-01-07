@@ -206,7 +206,8 @@ module.exports = function (grunt) {
       },
       dist: [
         'dist/css/bootstrap.css',
-        'dist/css/bootstrap-theme.css'
+        'dist/css/bootstrap-theme.css',
+        'dist/css/carousel.css'
       ],
       examples: [
         'docs/examples/**/*.css'
