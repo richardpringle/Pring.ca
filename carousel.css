@@ -67,7 +67,7 @@ body {
   height: 500px;
   background-size: cover;
   background-position: center center;
-  background-image: url('bower_components/image/banner/overview-banner.jpg');
+  background-image: url('image/banner/overview-banner.jpg');
 }
 
 .carousel-inner > .item > #banner2{
