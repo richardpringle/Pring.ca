@@ -3,6 +3,7 @@
 /* Padding below the footer and lighter body text */
 
 body {
+  max-width: 1920px;
   padding-bottom: 40px;
   color: #5a5a5a;
 }
@@ -66,7 +67,7 @@ body {
   height: 500px;
   background-size: cover;
   background-position: center center;
-  background-image: url('../image/overview-banner.jpg');
+  background-image: url('image/banner/overview-banner.jpg');
 }
 
 .carousel-inner > .item > #banner2{
