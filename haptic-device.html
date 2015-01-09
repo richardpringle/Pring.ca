@@ -101,11 +101,14 @@
         <div class="col-lg-6">
           <h1 class="text-left"><i>Objective</i></h1>
           <p class="lead text-left font-19">
-            <br>To design and build a working prototype of a modular desktop haptic device. The device consists of a 5R parallel planar mechanism to achieve planar, 2 <em>degree-of-freedom</em> (DOF) motion. A third, redundant DOF is implemented to reconfigure the active base joints changing dynamic and workspace properties of the mechanism to use for specific tasks.
+            <br>To design and build a working prototype of a modular desktop haptic device. The device consists of a 5R parallel planar mechanism to achieve planar, 2 <em>degree-of-freedom</em> (DOF) motion. A third, redundant DOF is implemented to reconfigure the active base joints changing dynamic and workspace properties of the mechanism to use for specific tasks.  
+          </p>
+          <p class="lead text-left font-19">
+            The <em>end-effector</em> (the joint that connects the red and green links in the illustration) is the point which a human interacts with. The rest of the mechanism is used to generate forces at that point and read its position.
           </p>
         </div>
         <div class="col-lg-6 marg-top">
-          <img class="img-rounded-lg img-responsive" src="image/HD0.jpg" width="600">  
+          <img class="img-rounded-lg img-responsive img-thumbnail" src="image/HD0.jpg" width="600">  
         </div>
       </div> 
 
@@ -121,7 +124,7 @@
       </div>
       <div class="row details">
         <div class="col-lg-6 marg-top">
-          <img class="img-rounded-lg img-responsive" src="image/HD1.jpg" width="600">
+          <img class="img-rounded-lg img-responsive img-thumbnail" src="image/HD1.jpg" width="600">
         </div>
         <div class="col-lg-6 marg-top">
           <img class="img-rounded-lg img-responsive" src="image/HD2.jpg" width="600">
@@ -167,7 +170,7 @@
 
       <div class="row details">
         <div class="col-lg-12">
-          <h1 class="text-left"><i>Actuated joints</i></h1>
+          <h1 class="text-left"><i>Actuated Joints</i></h1>
           <p class="lead text-left font-19">
             <br>The base joints are directly actuated by a DC motor with a <em>D-profile</em> hub.
           </p>
@@ -184,43 +187,82 @@
 
       <hr class="margin-5">
 
-      <div class="row details" id="OI">
-        <div class="col-lg-6">
-          <h1 class="text-left"><i>Orientation Indicator</i></h1>
-          <p class="lead text-left font-19"><br>The orientation indicator is a small arrow-like piece of the handle that indicates the orientation of the needle. This is a secondary assurance that the needle is in the correct orientation before puncture, also giving added control when twisting the handle.</p>
+      <div class="row details">
+        <div class="col-lg-12">
+          <h1 class="text-left"><i>Passive Joints</i></h1>
+          <p class="lead text-left font-19">
+            <br>The passive joints use bearings and a pin to assure that any <em>"play"</em> is minimized.
+          </p>
+        </div>
+      </div>
+      <div class="row details">
+        <div class="col-lg-6 marg-top">
+          <img class="img-rounded-lg img-responsive" src="image/HD11.jpg" width="600">
         </div>
         <div class="col-lg-6 marg-top">
-          <img class="img-rounded-lg img-responsive" src="image/indicator2-blur-tilt-shift.jpg" width="600"> 
+          <img class="img-rounded-lg img-responsive" src="image/HD12.jpg" width="600">
         </div>
-      </div> 
-
-     <hr class="margin-5">
-
-      <div class="row details" id="PW">
-        <div class="col-lg-6">
-          <h1 class="text-left"><i>Priming Wheel</i></h1>
-          <p class="lead text-left font-19"><br>The priming wheel is a roller that is easily manipulated to change the needle's angle of attack. It allows for controlled adjustment, increasing the precision at which the angle may be varied.</p>
-        </div>
-        <div class="col-lg-6 marg-top">
-          <img class="img-rounded-lg img-responsive" src="image/wheel-focus.jpg" width="600"> 
-        </div>
-      </div> 
+      </div>
 
       <hr class="margin-5">
 
-      <div class="row details" id="luer">
-        <div class="col-lg-6">
-          <h1 class="text-left"><i>Guidewire Insertion</i></h1>
-          <p class="lead text-left font-19"><br>The guidewire traveling through the <em>Right Atrium</em> to the <em>Left</em>, is inserted in the luer on the back of the device. The luer is designed such that the guidewire may enter seamlessly and travel all the way to the <em>Left Atrium</em> without any additional steps to the procedure.</p>
+      <div class="row details">
+        <div class="col-lg-12">
+          <h1 class="text-left"><i>Rapid Prototyped Parts</i></h1>
+          <p class="lead text-left font-19">
+            The project makes use of SLA rapid prototyping to minimize cost of manufacturing for a number of small parts.
+          </p>
+        </div>
+      </div>
+      <div class="row details">
+        <div class="col-lg-6 marg-top">
+          <img class="img-rounded-lg img-responsive" src="image/HD13.jpg" width="600">
         </div>
         <div class="col-lg-6 marg-top">
-          <img class="img-rounded-lg img-responsive" src="image/luer.jpg" width="600"> 
+          <img class="img-rounded-lg img-responsive" src="image/HD14.jpg" width="600">
+        </div>
+      </div>
+
+      <hr class="margin-5">
+
+      <div class="row details">
+        <div class="col-lg-12">
+          <h1 class="text-left"><i>Control System</i></h1>
+          <p class="lead text-left font-19">
+            The control system makes use of the <em><a href="http://www.udoo.org">UDOO</a></em> multi-processor single-board-computer making use of the <em>Arduino</em> API (see <em>UDOO</em> website for details). Position is determined using quadrature encoders on the base joint actuators and decoded using a LS7366 32-bit CMOS counters on two <em><a href="https://www.ghielectronics.com/catalog/product/465">GHI Pulse Count Modules</a></em> which communicate via SPI with the <em>UDOO</em> board.
+          </p>
+        </div>
+      </div>
+      <div class="row details">
+        <div class="col-lg-6 marg-top">
+          <img class="img-rounded-lg img-responsive img-thumbnail" src="image/UDOO.jpg" width="600">
+        </div>
+        <div class="col-lg-6 marg-top">
+          <img class="img-rounded-lg img-responsive img-thumbnail" src="image/ghi.jpg" width="600">
+        </div>
+      </div>
+
+      <hr class="featurette-divider"> 
+
+      <div id="sections-btn"><a class="btn btn-default" href="index.html#sections">&laquo; Projects</a></div>
+
+      <hr class="margin-5">
+
+      <div class="row details">
+        <div class="col-lg-6">
+          <h1 class="text-left"><i>Current Project Status</i></h1>
+          <p class="lead text-left font-19">
+            <br>The project is currently in progress. The control system is still being optomized and the computer-device interface is under development. Here is a Picture of the device in its current state.
+          </p>
+        </div>
+        <div class="col-lg-6 marg-top">
+          <img class="img-rounded-lg img-responsive img-thumbnail" src="image/HD.jpg" width="600">  
         </div>
       </div> 
 
       <hr class="featurette-divider"> 
 
-      <div id="sections-btn"><a class="btn btn-default" href="index.html#sections">&laquo; Sections</a></div>
+      <div id="sections-btn"><a class="btn btn-default" href="index.html#sections">&laquo; Projects</a></div>
 
       <hr class="featurette-divider">
 
@@ -228,11 +270,15 @@
 
       <!-- FOOTER -->
       <footer>
-        <p class="text-center text-muted" style="margin-top: -10px; margin-bottom: 40px;">
+        <!-- <p class="text-center text-muted" style="margin-top: -10px; margin-bottom: 40px;">
         The Kapsus&trade; device for Transseptal Puncture is an investigational device not available for sale at this time.
+        </p> -->
+        <p class="text-center text-muted" style="margin-top: -10px; margin-bottom: 40px;">
+        This project is still under development.
         </p>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>&copy; 2013 Bavaria Medical Technology, Canada Inc &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+        <!-- <p>&copy; 2013 Bavaria Medical Technology, Canada Inc &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p> -->
+        <p><a href="contact.html">Contact</a></p>
       </footer>
       <!-- /End Footer -->
 
