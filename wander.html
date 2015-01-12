@@ -162,7 +162,7 @@
         </div>
       </div>
 
-      <hr class="margin-5">
+      <hr class="margin-5" style="margin-top:20px;">
 
       <div class="row details">
         <div class="col-lg-12">
@@ -204,16 +204,19 @@
       </div>
 
       <div class="row details">
-        <div class="col-lg-12 marg-top">
+        <div class="col-lg-4 marg-top">
           <h2 class="text-left"><i>Login Form HTML</i></h2>
+          <p>
+            The HTML uses <em>Ember</em>&rsquo;s handlebars templating scheme &#123;&#123;curly braces&#125;&#125; to display changing content which has an associated <a href="#controller">controller</a>.
+          </p>
         </div>
-        <div class="col-lg-8">
+        <div class="col-lg-8 marg-top">
             <img class="img-rounded img-responsive" src="image/wander20.jpg">
         </div>
-        <div class="clearfix visible-lg-block"></div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
       </div>
 
-      <div class="row details marg-top">
+      <div class="row details">
         <div class="col-sm-4 marg-top">
           <h2 class="text-left"><i>Signup Name</i></h2>
           <p>
@@ -247,22 +250,132 @@
       </div>
 
       <div class="row details">
-        <div class="col-lg-12 marg-top">
+        <div class="col-lg-4 marg-top">
           <h2 class="text-left"><i>Signup Form HTML</i></h2>
-        </div>
-        <div class="col-lg-8">
-            <img class="img-rounded img-responsive" src="image/wander21.jpg">
-        </div>
-        <div class="clearfix visible-lg-block"></div>
-      </div>
-
-      <div class="row details marg-top">
-        <div class="col-lg-12">
-          <h2 class="text-left"><i>Ember Components</i></h1>
-          <p class="lead text-left font-19">
-            <br>The <em>Ember</em> components are first created in the HTML file as inputText components. From there, they are passed into the javascript file running on <em>Node</em> where each individual component is checked by the form controller. The AsyncValidation mixin handles the individual components such that the form may be submitted if all fields are valid, or else the appropriate message will be displayed.
+          <p>
+            The Signup form uses the handlebars template as well. Again, see <a href="#controller">controller section</a> for details.
           </p>
         </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander21.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div class="row details">
+        <div class="col-lg-12">
+          <h2 class="text-left"><i>Ember Components</i></h1>
+          <p>
+            <br>The <em>Ember</em> components are first created in the HTML file as inputText components using the Handlebars templating scheme &#123;&#123;curly braces&#125;&#125;. From there, they are passed into the javascript file running on <em>Node</em>, where each individual component is checked by the <a href="#controller">form controller</a>. Each component creates an instance of the AsyncValidation mixin such that the form may be submitted if all fields are valid, or else the appropriate message will be displayed.
+          </p>
+        </div>
+      </div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>Form Component Templates</i></h2>
+          <p>
+            Here, the form component templates are initialized in the HTML file.
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander19.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div id="controller" style="position:relative;top:-40px;"></div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>Form Controller</i></h2>
+          <p>
+            The form controller returns an <em>Ember</em> object containing the validity information of the form and all of its individual components. 
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander30.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>The Asynchronous Validation Mixin</i></h2>
+          <p>
+            This mixin contains all the relevant information for any validation form item.
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander23.jpg">
+            <img class="img-rounded img-responsive marg-top" src="image/wander24.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>General Input Text and Input Name Components</i></h2>
+          <p>
+            Here are the input components for <em>text</em> and <em>name</em> respectively. You can see that an <em>text</em> component requires an entry while the <em>name</em> component is an instance of the <em>text</em> component, and requires a first and last name, separated by a space.
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander25.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>Input Email Component</i></h2>
+          <p>
+            The input email component is used for the login page and checks the database for a user profile under that email address. It also requires you to enter valid email syntax. 
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander26.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>Input Email2 Component</i></h2>
+          <p>
+            Like the other email component, the <em>Email2</em> component checks for valid email syntax. This email component is used for the <em>Signup</em> page and checks to see that no users have already used the entered email address.
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander27.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>Password Components</i></h2>
+          <p>
+            The first password component is used to check whether a password is the correct length. The <em>password2</em> component checks the re-entry of a password to assure that there were not any entry mistakes on the first password. This is used on the <em>Signup</em> page to assure that the user knows exactly what they entered and did not make any mistakes.  
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander28.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>Phone Component</i></h2>
+          <p>
+            The phone component assures that only a 10-digit number can be entered, with groups of digits separated by a comma, period, or hyphen. Only the digits are passed into the submission.
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander29.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
       </div>
 
       <hr class="featurette-divider"> 
