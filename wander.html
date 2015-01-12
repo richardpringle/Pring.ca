@@ -101,7 +101,7 @@
         <div class="col-lg-6">
           <h1 class="text-left"><i>Objective</i></h1>
           <p class="lead text-left font-19">
-            <br>To implement the <em>agile development framework</em> through <em>Scrum</em> while practicing version for <em>current</em> methodology of software engineering practice in teams of 6-8 students.
+            To implement the <em>agile development framework</em> through <em>Scrum</em> while practicing version for <em>current</em> methodology of software engineering practice in teams of 6-8 students.
           </p>
           <p class="lead text-left font-19">
             The app was developed through <em>Scrum</em>&rsquo;s sprint-based methodology. The total lifecycle of the project consisted of three 3-week sprints. At the beginning of each sprint, user stories were created then implemented throughout the sprint while a product backlog was incrementally developed through the <em>agile</em> framework. A <em>sprint-master</em> lead weekly meetings where burndown charts were used to analyze progress and any necessary adjustments to user stories were made.
@@ -118,7 +118,7 @@
         <div class="col-lg-12">
           <h1 class="text-left"><i>Scrum Sprint-Master</i></h1>
           <p class="lead text-left font-19">
-            <br>The <em>Sprint-Master</em> role was alternated for each sprint. They were responsible for leading the team in the right direction, assuring proper lines of commication between teammates, making sure that the deliverables were being completed on time, and assuring that all user-stories were completed by the end of the sprint.
+            The <em>Sprint-Master</em> role was alternated for each sprint. They were responsible for leading the team in the right direction, assuring proper lines of commication between teammates, making sure that the deliverables were being completed on time, and assuring that all user-stories were completed by the end of the sprint.
           </p>
           <p class="lead text-left font-19">
             The <em>Sprint-Master</em> was also responsible for meeting the client (the class TA) at the end of each week to review progress and to assure on-time delivery of the product.
@@ -143,7 +143,7 @@
         <div class="col-lg-12">
           <h1 class="text-left"><i>The Product</i></h1>
           <p class="lead text-left font-19">
-            <br>The deliverable product was an app that could allow its members to book hotel rooms online. A user would sign up to create an account or log in to an existing account. They would then be able to browse through or search for hotels in different locations with different ratings. From there, they could chose a room based on capacity and price and book it.
+            The deliverable product was an app that could allow its members to book hotel rooms online. A user would sign up to create an account or log in to an existing account. They would then be able to browse through or search for hotels in different locations with different ratings. From there, they could chose a room based on capacity and price and book it.
           </p>
         </div>
       </div>
@@ -168,16 +168,22 @@
         <div class="col-lg-12">
           <h1 class="text-left"><i>Asynchronous Form Validation</i></h1>
           <p class="lead text-left font-19">
-            <br>One of my main responsibilities for the project implementing asynchronous form validation. Every input field on each form is verified in real-time, before the user attempts to submit the form. The objective is to maximize ease of use allowing users to correct any mistakes while they fill out the form.
+            One of my main responsibilities for the project implementing asynchronous form validation. Every input field on each form is verified in real-time, before the user attempts to submit the form. The objective is to maximize ease of use allowing users to correct any mistakes while they fill out the form.
           </p>
         </div>
       </div>
 
+      <div id="loginForm" style="position:relative;top:-40px;"></div>
+
       <div class="row details">
-        <div class="col-sm-4 marg-top">
+        <div class="col-sm-4">
           <h2 class="text-left"><i>Login Email</i></h2>
           <p>
-          The login email requires a valid email address in the form of <em>name&#64;domain1.domain2</em>. Also, the database is queried to see if the user already exists.
+          The login email requires a valid email address in the form of <em>name&#64;domain1.domain2</em>. Also, the database is queried to see if the user already exists. 
+          </p>
+          <p>
+            View <a href="#loginHTML">HTML Elements</a>
+            <br>View <a href="#emailComponent">Ember Email Component</a>
           </p>
         </div>
         <div class="col-sm-4 marg-top">
@@ -194,6 +200,10 @@
            <p>
            The login password must be filled in and 8 characters or longer.
            </p>
+           <p>
+             View <a href="#loginHTML">HTML Elements</a>
+             <br>View <a href="#passwordComponent">Ember Password Component</a>
+           </p>
         </div>
         <div class="col-sm-4 marg-top">
           <img class="img-rounded img-responsive img-thumbnail" src="image/wander7.jpg" width="400">
@@ -203,24 +213,18 @@
         </div>
       </div>
 
-      <div class="row details">
-        <div class="col-lg-4 marg-top">
-          <h2 class="text-left"><i>Login Form HTML</i></h2>
-          <p>
-            The HTML uses <em>Ember</em>&rsquo;s handlebars templating scheme &#123;&#123;curly braces&#125;&#125; to display changing content which has an associated <a href="#controller">controller</a>.
-          </p>
-        </div>
-        <div class="col-lg-8 marg-top">
-            <img class="img-rounded img-responsive" src="image/wander20.jpg">
-        </div>
-        <!-- <div class="clearfix visible-lg-block"></div> -->
-      </div>
+      <div id="signupForm" style="position:relative;top:-40px;"></div>
 
       <div class="row details">
         <div class="col-sm-4 marg-top">
           <h2 class="text-left"><i>Signup Name</i></h2>
           <p>
           The Signup form requires a first and last name separated by a space.
+          </p>
+          <p>
+            View <a href="#signupHTML">HTML Elements</a>
+            <br>View <a href="#nameComponent">Ember Name Component</a>
+            <br>View <a href="#email2Component">Ember Email Component</a>
           </p>
         </div>
         <div class="col-sm-4 marg-top">
@@ -240,6 +244,11 @@
            <p>
              The phone number is also validated and requires an entry of 10 digits. Only the digits entered in the field are passed to the database, so the user may separate them as they please.
            </p>
+           <p>
+            View <a href="#signupHTML">HTML Elements</a>
+            <br>View <a href="#passwordComponent">Ember Password Components</a>
+            <br>View <a href="#phoneComponent">Ember Phone Number Component</a>
+           </p>
         </div>
         <div class="col-sm-4 marg-top">
           <img class="img-rounded img-responsive img-thumbnail" src="image/wander11.jpg" width="400">
@@ -249,33 +258,28 @@
         </div>
       </div>
 
-      <div class="row details">
-        <div class="col-lg-4 marg-top">
-          <h2 class="text-left"><i>Signup Form HTML</i></h2>
-          <p>
-            The Signup form uses the handlebars template as well. Again, see <a href="#controller">controller section</a> for details.
-          </p>
-        </div>
-        <div class="col-lg-8 marg-top">
-            <img class="img-rounded img-responsive" src="image/wander21.jpg">
-        </div>
-        <!-- <div class="clearfix visible-lg-block"></div> -->
-      </div>
+      <div id="emberComponents" style="position:relative;top:-40px;"></div>
 
       <div class="row details">
         <div class="col-lg-12">
           <h2 class="text-left"><i>Ember Components</i></h1>
           <p>
-            <br>The <em>Ember</em> components are first created in the HTML file as inputText components using the Handlebars templating scheme &#123;&#123;curly braces&#125;&#125;. From there, they are passed into the javascript file running on <em>Node</em>, where each individual component is checked by the <a href="#controller">form controller</a>. Each component creates an instance of the AsyncValidation mixin such that the form may be submitted if all fields are valid, or else the appropriate message will be displayed.
+            The Validation components are <em>Ember</em> objects. These objects contain the fields necessary to display the correct alerts when a form is not valid as well as the input and label information. Each validation component is an instance of the <em>inputText</em> component and each form uses the <em>Form Controller</em> to handle its validity. Each component also has an associated template to display in the user interface and retreive any and all inputs.
           </p>
         </div>
       </div>
 
+      <div id="templates" style="position:relative;top:-40px;"></div>
+
       <div class="row details">
-        <div class="col-lg-4 marg-top">
+        <div class="col-lg-4">
           <h2 class="text-left"><i>Form Component Templates</i></h2>
           <p>
-            Here, the form component templates are initialized in the HTML file.
+            The HTML uses <em>Ember</em>&rsquo;s handlebars templating scheme with &#123;&#123;curly braces&#125;&#125; to display actively changing content. When the HTML is compiled on <em>Node</em>, everything in the curly braces disapears, leaving behind the desired HTML output. Each input comonent is an instance of the <em> Ember inputText</em> component, which displays a regular HTML input element once the code is compiled.
+          </p>
+          <p>
+            View <a href="#loginHTML">Login HTML</a>
+            <br>View <a href="#signupHTML">Signup HTML</a>
           </p>
         </div>
         <div class="col-lg-8 marg-top">
@@ -290,7 +294,7 @@
         <div class="col-lg-4 marg-top">
           <h2 class="text-left"><i>Form Controller</i></h2>
           <p>
-            The form controller returns an <em>Ember</em> object containing the validity information of the form and all of its individual components. 
+            The form controller handles each form. it checks the validity of the individual input components in order to allow the valid inputes to be submitted. 
           </p>
         </div>
         <div class="col-lg-8 marg-top">
@@ -303,7 +307,7 @@
         <div class="col-lg-4 marg-top">
           <h2 class="text-left"><i>The Asynchronous Validation Mixin</i></h2>
           <p>
-            This mixin contains all the relevant information for any validation form item.
+            This mixin object is the heart of the validation schematic. Each <em>inputText</em> object is an instance of the <em>AsyncValidation mixin</em>. These instances contain all the fields necessary for validation and displaying the proper alerts for invalid input. It is the <em>AsyncValidation Mixin</em> that communicates with the <em>Form Controller</em> to assure that invalid information is not submitted.
           </p>
         </div>
         <div class="col-lg-8 marg-top">
@@ -313,11 +317,56 @@
         <!-- <div class="clearfix visible-lg-block"></div> -->
       </div>
 
+      <div id="loginHTML" style="position:relative;top:-40px;"></div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>Login Form HTML</i></h2>
+          <p>
+            The <em>Login Form</em> HTML template contains the necessary input components so that the user may provide the required input to access their account. In this case, the only information required for an existing account is an <em>email address</em> and a <em>password.</em>
+          </p>
+          <p>
+            Return to <a href="#loginForm">Login form</a>
+            <br>Return to <a href="#templates">Form Component Templates</a>
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander20.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div id="signupHTML" style="position:relative;top:-40px;"></div>
+
+      <div class="row details">
+        <div class="col-lg-4 marg-top">
+          <h2 class="text-left"><i>Signup Form HTML</i></h2>
+          <p>
+            The <em>Signup Form</em> HTML template contains the necessary input components to create an account. Each component requires an input from the user. After all fields have been validated, the user may submit the form and the information can then be passed along the database.    
+          </p>
+          <p>
+            Return to <a href="#signupForm">Signup Form</a>
+            <br>Return to <a href="#templates">Form Component Templates</a>
+          </p>
+        </div>
+        <div class="col-lg-8 marg-top">
+            <img class="img-rounded img-responsive" src="image/wander21.jpg">
+        </div>
+        <!-- <div class="clearfix visible-lg-block"></div> -->
+      </div>
+
+      <div id="nameComponent" style="position:relative;top:-40px;"></div>
+
       <div class="row details">
         <div class="col-lg-4 marg-top">
           <h2 class="text-left"><i>General Input Text and Input Name Components</i></h2>
           <p>
             Here are the input components for <em>text</em> and <em>name</em> respectively. You can see that an <em>text</em> component requires an entry while the <em>name</em> component is an instance of the <em>text</em> component, and requires a first and last name, separated by a space.
+          </p>
+          <p>
+            Return to <a href="#emberComponents">Ember Components</a>
+            <br>Return to <a href="#loginForm">Login Form</a>
+            <br>Return to <a href="#signupForm">Signup Form</a>
           </p>
         </div>
         <div class="col-lg-8 marg-top">
@@ -326,11 +375,18 @@
         <!-- <div class="clearfix visible-lg-block"></div> -->
       </div>
 
+      <div id="emailComponent" style="position:relative;top:-40px;"></div>
+
       <div class="row details">
         <div class="col-lg-4 marg-top">
           <h2 class="text-left"><i>Input Email Component</i></h2>
           <p>
             The input email component is used for the login page and checks the database for a user profile under that email address. It also requires you to enter valid email syntax. 
+          </p>
+          <p>
+            Return to <a href="#emberComponents">Ember Components</a>
+            <br>Return to <a href="#loginForm">Login Form</a>
+            <br>Return to <a href="#signupForm">Signup Form</a>
           </p>
         </div>
         <div class="col-lg-8 marg-top">
@@ -339,11 +395,18 @@
         <!-- <div class="clearfix visible-lg-block"></div> -->
       </div>
 
+      <div id="email2Component" style="position:relative;top:-40px;"></div>
+
       <div class="row details">
         <div class="col-lg-4 marg-top">
           <h2 class="text-left"><i>Input Email2 Component</i></h2>
           <p>
             Like the other email component, the <em>Email2</em> component checks for valid email syntax. This email component is used for the <em>Signup</em> page and checks to see that no users have already used the entered email address.
+          </p>
+          <p>
+            Return to <a href="#emberComponents">Ember Components</a>
+            <br>Return to <a href="#loginForm">Login Form</a>
+            <br>Return to <a href="#signupForm">Signup Form</a>
           </p>
         </div>
         <div class="col-lg-8 marg-top">
@@ -352,11 +415,18 @@
         <!-- <div class="clearfix visible-lg-block"></div> -->
       </div>
 
+      <div id="passwordComponent" style="position:relative;top:-40px;"></div>
+
       <div class="row details">
         <div class="col-lg-4 marg-top">
           <h2 class="text-left"><i>Password Components</i></h2>
           <p>
             The first password component is used to check whether a password is the correct length. The <em>password2</em> component checks the re-entry of a password to assure that there were not any entry mistakes on the first password. This is used on the <em>Signup</em> page to assure that the user knows exactly what they entered and did not make any mistakes.  
+          </p>
+          <p>
+            Return to <a href="#emberComponents">Ember Components</a>
+            <br>Return to <a href="#loginForm">Login Form</a>
+            <br>Return to <a href="#signupForm">Signup Form</a>
           </p>
         </div>
         <div class="col-lg-8 marg-top">
@@ -365,11 +435,18 @@
         <!-- <div class="clearfix visible-lg-block"></div> -->
       </div>
 
+      <div id="phoneComponent" style="position:relative;top:-40px;"></div>
+
       <div class="row details">
         <div class="col-lg-4 marg-top">
           <h2 class="text-left"><i>Phone Component</i></h2>
           <p>
             The phone component assures that only a 10-digit number can be entered, with groups of digits separated by a comma, period, or hyphen. Only the digits are passed into the submission.
+          </p>
+          <p>
+            Return to <a href="#emberComponents">Ember Components</a>
+            <br>Return to <a href="#loginForm">Login Form</a>
+            <br>Return to <a href="#signupForm">Signup Form</a>
           </p>
         </div>
         <div class="col-lg-8 marg-top">
