@@ -89,21 +89,10 @@ body {
   height: 500px;
   background-size: cover;
   background-position: center center;
-  background-image: url('../image/housing-banner.jpg');
-}
-
-.carousel-inner > .item > #banner4{
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 500px;
-  background-size: cover;
-  background-position: center center;
   background-image: url('image/banner/haptic-device-banner.jpg');
 }
 
-.carousel-inner > .item > #banner5{
+.carousel-inner > .item > #banner4{
   position: absolute;
   top: 0;
   left: 0;
